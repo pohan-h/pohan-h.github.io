@@ -17,7 +17,7 @@ const IndexPage = () => (
         alt="Infinite Galaxy"
         style={{ marginBottom: `var(--space-3)` }}
       />
-      <h1>欢迎来到 Infinite Galaxy Wiki</h1>
+      <h1>欢d迎来到 Infinite Galaxy Wiki</h1>
       <p className={styles.intro}>
         这里是你获取游戏攻略和信息的最佳去处。
       </p>
