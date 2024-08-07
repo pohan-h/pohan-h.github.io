@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[477],{5020:function(e,t,l){l.r(t);var a=l(7294),u=l(5592);t.default=()=>a.createElement(u.Z,null,a.createElement("h1",null,"船舰信息"),a.createElement("p",null,"这里是所有船舰的详细信息和使用策略。"))}}]);
+//# sourceMappingURL=component---src-pages-ships-js-62b7d1011c3c841f5ecc.js.map
