@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[39],{6857:function(t,a,e){e.r(a);e(7294),e(5592);a.default=BackgroundPage}}]);
+//# sourceMappingURL=component---src-pages-background-js-4af183513e6cc159ba8e.js.map
