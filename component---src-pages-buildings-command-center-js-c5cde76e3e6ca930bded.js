@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[770],{2711:function(e,t,l){l.r(t);var a=l(7294),u=l(5592);t.default=()=>a.createElement(u.Z,null,a.createElement("h1",null,"指挥中心"),a.createElement("p",null,"指挥中心是游戏中最重要的建筑之一，负责管理舰队的整体运作和资源分配。通过升级指挥中心，你可以解锁更多的功能并提升舰队的战斗力。"))}}]);
+//# sourceMappingURL=component---src-pages-buildings-command-center-js-c5cde76e3e6ca930bded.js.map
