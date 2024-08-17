@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[654],{642:function(e,t,n){n.r(t),n.d(t,{Head:function(){return c}});var l=n(7294),a=n(1883),r=n(5592),u=n(9357);const c=()=>l.createElement(u.Z,{title:"範例頁面",description:"這是關於infinite galaxy的遊戲背景設定",lang:"zh-Hant"});t.default=()=>l.createElement(r.Z,null,l.createElement("h1",null,"範例"),l.createElement("p",null,"這是範例頁面"),l.createElement("h3",null,l.createElement(a.Link,{to:"/"},"回首頁")))}}]);
+//# sourceMappingURL=component---src-pages-example-js-1e45ac69ddae3bd3fdbd.js.map
