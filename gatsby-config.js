@@ -8,7 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "./my-wiki-site",
+  pathPrefix: "",
   siteMetadata: {
     title: `Infinite Galaxy Wiki`,
     description: `這是Infinite Galaxy的中文維基`,
