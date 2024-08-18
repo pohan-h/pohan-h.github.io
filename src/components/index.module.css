@@ -36,6 +36,7 @@
 .listItemLink {
   color: var(--color-primary);
   font-weight: bold;
+  font-size: 18px;
 }
 
 .listItemDescription {
@@ -51,4 +52,62 @@
 .intro {
   max-width: none;
   line-height: var(--line-height-loose);
+}
+
+/* 导航栏样式 */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  margin: 100;
+  justify-content: center; /* 居中导航栏 */
+  gap: 20px; /* 导航项之间的间距 */
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333; /* 导航链接颜色 */
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #007acc; /* 悬停时的颜色 */
+}
+nav {
+  display: flex;
+}
+
+
+
+
+
+.buildingContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.buildingItem {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.buildingInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.buildingTitleLink {
+  text-decoration: none;
+  color: #3f39e6; /* 标题链接颜色 */
+}
+
+.buildingTitleLink:hover {
+  text-decoration: underline; /* 鼠标悬停时添加下划线 */
 }

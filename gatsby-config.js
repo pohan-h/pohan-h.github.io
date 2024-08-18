@@ -8,12 +8,12 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "./my-wiki-site/src",
+  pathPrefix: "./my-wiki-site",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Infinite Galaxy Wiki`,
+    description: `這是Infinite Galaxy的中文維基`,
+    author: `@pohan-h`,
+    siteUrl: `https://pohan-h.github.io/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -29,8 +29,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Infinite Galaxy Wiki`,
+        short_name: `IG wiki`,
         start_url: `/`,
         background_color: `#663399`,
         // This will impact how browsers show your PWA/website
