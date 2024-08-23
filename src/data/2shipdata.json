@@ -1,0 +1,125 @@
+{
+    "destroyer": [
+        {
+            "level": 1,
+            "ship_name": "Griffin-class Destroyer I",
+            "type": "Laser",
+            "power": 305,
+            "load": 574,
+            "HP": 2580,
+            "armor": 1234,
+            "shield": 339,
+            "damage_output": 138
+        },
+        {
+            "level": 2,
+            "ship_name": "Kraken-class Destroyer I",
+            "type": "Missile",
+            "power": 458,
+            "load": 837,
+            "HP": 3002,
+            "armor": 1537,
+            "shield": 491,
+            "damage_output": 157
+        },
+        {
+            "level": 3,
+            "ship_name": "Griffin-class Destroyer II",
+            "type": "Laser",
+            "power": 641,
+            "load": 563,
+            "HP": 3406,
+            "armor": 1839,
+            "shield": 666,
+            "damage_output": 177
+        },
+        {
+            "level": 4,
+            "ship_name": "Kraken-class Destroyer II",
+            "type": "Missile",
+            "power": 854,
+            "load": 602,
+            "HP": 3857,
+            "armor": 2141,
+            "shield": 878,
+            "damage_output": 197
+        },
+        {
+            "level": 5,
+            "ship_name": "Griffin-class Destroyer III",
+            "type": "Laser",
+            "power": 1098,
+            "load": 633,
+            "HP": 4353,
+            "armor": 2383,
+            "shield": 1103,
+            "damage_output": 219
+        },
+        {
+            "level": 6,
+            "ship_name": "Kraken-class Destroyer III",
+            "type": "Missile",
+            "power": 1373,
+            "load": 677,
+            "HP": 4898,
+            "armor": 2647,
+            "shield": 1378,
+            "damage_output": 241
+        },
+        {
+            "level": 7,
+            "ship_name": "Wyvern-class Destroyer I",
+            "type": "Laser",
+            "power": 1678,
+            "load": 703,
+            "HP": 5481,
+            "armor": 2877,
+            "shield": 1676,
+            "damage_output": 266
+        },
+        {
+            "level": 8,
+            "ship_name": "Cthulhu-class Destroyer I",
+            "type": "Missile",
+            "power": 2013,
+            "load": 827,
+            "HP": 6110,
+            "armor": 3136,
+            "shield": 2037,
+            "damage_output": 291
+        },
+        {
+            "level": 9,
+            "ship_name": "Wyvern-class Destroyer II",
+            "type": "Laser",
+            "power": 2379,
+            "load": 845,
+            "HP": 6779,
+            "armor": 3408,
+            "shield": 2456,
+            "damage_output": 321
+        },
+        {
+            "level": 10,
+            "ship_name": "Cthulhu-class Destroyer II",
+            "type": "Missile",
+            "power": 2776,
+            "load": 977,
+            "HP": 7488,
+            "armor": 3705,
+            "shield": 2949,
+            "damage_output": 351
+        },
+        {
+            "level": 11,
+            "ship_name": "Wyvern-class Destroyer III",
+            "type": "Laser",
+            "power": 3203,
+            "load": 985,
+            "HP": 8236,
+            "armor": 4037,
+            "shield": 3535,
+            "damage_output": 388
+        }
+    ]
+}
