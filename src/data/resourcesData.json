@@ -57,12 +57,12 @@
       "unlock": "科研：xx科技",
       "efficiency": 0,
       "levels": [
-        { "level": 1, "capacity": 0 },
-        { "level": 2, "capacity": 0 },
-        { "level": 3, "capacity": "60" },
-        { "level": 4, "capacity": 0 },
-        { "level": 5, "capacity": 0 },
-        { "level": 6, "capacity": "105" }
+        { "level": 1, "capacity": 30 },
+        { "level": 2, "capacity": 45 },
+        { "level": 3, "capacity": 60 },
+        { "level": 4, "capacity": 75 },
+        { "level": 5, "capacity": 90 },
+        { "level": 6, "capacity": 105 }
       ]
     }
   ],
@@ -76,7 +76,9 @@
         { "level": 3, "efficiency": 0 },
         { "level": 4, "efficiency": 0 },
         { "level": 5, "efficiency": 0 },
-        { "level": 6, "efficiency": 0 }
+        { "level": 6, "efficiency": 0 },
+        { "level": 7, "efficiency": 93.6 },
+        { "level": 8, "efficiency": 100.8 }
       ],
       "planetTypes": ["岩石行星", "沙漠行星", "山地行星"]
     },
@@ -89,7 +91,9 @@
         { "level": 3, "efficiency": 0 },
         { "level": 4, "efficiency": 0 },
         { "level": 5, "efficiency": 0 },
-        { "level": 6, "efficiency": 0 }
+        { "level": 6, "efficiency": 0 },
+        { "level": 7, "efficiency": 0 },
+        { "level": 8, "efficiency": 100.8 }
       ],
       "planetTypes": ["氣態行星", "冰凍行星"]
     },
@@ -102,7 +106,9 @@
         { "level": 3, "efficiency": 0 },
         { "level": 4, "efficiency": 0 },
         { "level": 5, "efficiency": 0 },
-        { "level": 6, "efficiency": 0 }
+        { "level": 6, "efficiency": 0 },
+        { "level": 7, "efficiency": 0 },
+        { "level": 8, "efficiency": 0 }
       ],
       "planetTypes": ["冰凍行星", "火山行星"]
     },
@@ -112,10 +118,12 @@
       "levels": [
         { "level": 1, "efficiency": 3 },
         { "level": 2, "efficiency": 0 },
-        { "level": 3, "efficiency": 0 },
+        { "level": 3, "efficiency": 8 },
         { "level": 4, "efficiency": 0 },
         { "level": 5, "efficiency": 0 },
-        { "level": 6, "efficiency": 0 }
+        { "level": 6, "efficiency": 0 },
+        { "level": 7, "efficiency": 0 },
+        { "level": 8, "efficiency": 0 }
       ],
       "planetTypes": ["火山行星", "熔岩行星", "氣態行星"]
     }
