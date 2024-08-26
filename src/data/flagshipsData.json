@@ -1,0 +1,38 @@
+{
+    "flagshipSeries": [
+        {
+            "series": "xx系列",
+            "type": "xx",
+            "skills": ["技能1", "技能2"],
+            "functions": ["攻擊", "防禦", "挖礦"],
+            "flagships": [
+                {
+                    "name": "旗艦名稱1",
+                    "rarity": "稀有度1"
+                },
+                {
+                    "name": "旗艦名稱2",
+                    "rarity": "稀有度2"
+                }
+            ],
+            "upgradePriority": 1
+        },
+        {
+            "series": "yy系列",
+            "type": "yy",
+            "skills": ["技能1", "技能2"],
+            "functions": ["攻擊", "防禦", "挖礦"],
+            "flagships": [
+                {
+                    "name": "旗艦名稱3",
+                    "rarity": "稀有度1"
+                },
+                {
+                    "name": "旗艦名稱4",
+                    "rarity": "稀有度2"
+                }
+            ],
+            "upgradePriority": "完成关卡10后"
+        }
+    ]
+}
