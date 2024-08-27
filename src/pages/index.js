@@ -25,7 +25,7 @@ const IndexPage = () => (
         <p className={styles.listItemDescription}>获取和管理资源的技巧和策略。</p>
       </li>
       <li className={styles.listItem}>
-        <Link className={styles.listItemLink} to="/ships">船舰信息</Link>
+        <Link className={styles.listItemLink} to="/fleet">船舰信息</Link>
         <p>完成度：<font color="#32CD32">基本內容完成了，詳細內容之後補充</font></p>
         <p className={styles.listItemDescription}>获取关于各类船舰的详细资料与最佳使用策略。</p>
       </li>
