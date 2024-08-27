@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[20],{3923:function(e,t,l){l.r(t);var a=l(7294),u=l(5592);t.default=()=>a.createElement(u.Z,null,a.createElement("h1",null,"资源"),a.createElement("p",null,"获取和管理资源的技巧和策略。"))}}]);
-//# sourceMappingURL=component---src-pages-react-js-5c89a517f1e51f2319c5.js.map

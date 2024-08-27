@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[654],{642:function(e,t,l){l.r(t);var a=l(7294),n=l(1883),r=l(5592);t.default=()=>a.createElement(r.Z,null,a.createElement("h1",null,"範例"),a.createElement("p",null,"這是範例頁面"),a.createElement("h3",null,a.createElement(n.Link,{to:"/"},"回首頁")))}}]);
-//# sourceMappingURL=component---src-pages-example-js-e4d73a2f84f85b4c898b.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[372],{1870:function(e,t,n){n.r(t),n.d(t,{Head:function(){return c}});var l=n(6540),a=n(1221),r=n(4794),u=n(7528);const c=()=>l.createElement(u.A,{title:"建築",description:"隨著建築的解鎖與升級，我們能解鎖遊戲中的不同功能與玩法",lang:"zh-Hant"});t.default=()=>l.createElement(a.A,null,l.createElement(r.Link,null),l.createElement("h1",null,"建筑"),l.createElement("p",null,"一些建築"))}}]);
+//# sourceMappingURL=component---src-pages-buildings-js-c61f222d39c7a631eeb5.js.map
