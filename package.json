@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "chart.js": "^4.4.4",
+    "decap-cms-app": "^3.3.2",
     "gatsby": "^5.13.7",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-image": "^3.13.1",
