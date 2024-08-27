@@ -11,3 +11,6 @@ gatsby, vercel, netlify CMS(wiki的部分)然後是react架構的
 中國還是要翻牆，但好像會快一點？
 將網頁從github deploy到vercel真的超方便
 網址：https://infinite-galaxy-wiki.vercel.app/
+
+## netlify
+為網站增加CMS功能，使其變成維基
