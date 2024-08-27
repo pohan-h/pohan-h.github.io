@@ -1,21 +1,2 @@
-[
-    {
-      "name": "指挥中心",
-      "image": "../images/command_center.png",
-      "description": "管理舰队运作与资源分配，解锁更多功能。",
-      "link": "/buildings/command_center"
-    },
-    {
-      "name": "军用船坞",
-      "image": "../images/military_dock.png",
-      "description": "停泊与维修舰艇，增强战斗力。",
-      "link": "/buildings/military_dock"
-    },
-    {
-      "name": "旗舰船坞",
-      "image": "../images/flagship_dock.png",
-      "description": "专门停泊旗舰舰艇，提升战斗力。",
-      "link": "/buildings/flagship_dock"
-    }
-  ]
+{}
   

@@ -1,37 +1,14 @@
 import * as React from "react"
 import Layout from "../components/layout"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
-import * as styles from "../components/index.module.css"
-import buildingsData from "../data/buildings.json"
 import Seo from "../components/seo"
 
 const BuildingsPage = () => {
   return (
     <Layout>
+      <Link></Link>
       <h1>建筑</h1>
-      <div className={styles.buildingContainer}>
-        {buildingsData.map((building, index) => (
-          <div className={styles.buildingItem} key={index}>
-            <StaticImage
-              src={building.image}
-              alt={building.name}
-              placeholder="blurred"
-              layout="fixed"
-              width={150}
-              height={100}
-            />
-            <div className={styles.buildingInfo}>
-              <h2>
-                <Link to={building.link} className={styles.buildingTitleLink}>
-                  {building.name}
-                </Link>
-              </h2>
-              <p>{building.description}</p>
-            </div>
-          </div>
-        ))}
-      </div>
+      <p>一些建築</p>
     </Layout>
   )
 }
