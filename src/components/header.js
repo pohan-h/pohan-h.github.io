@@ -34,7 +34,7 @@ const Header = ({ siteTitle }) => (
           }}
         >
           <li><Link to="/">首頁</Link></li>
-          <li><Link to="/fleet">船艦</Link></li>
+          <li><Link to="/fleet">艦隊</Link></li>
           <li><Link to="/buildings">建築</Link></li>
           <li><Link to="/resources">資源</Link></li>
           <li><Link to="/background">遊戲背景</Link></li>
