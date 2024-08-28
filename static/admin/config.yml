@@ -2,14 +2,16 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "static/images/uploads"  # 上傳的媒體文件保存路徑
+media_folder: "static/images/uploads" # 上傳的媒體文件保存路徑
 public_folder: "/images/uploads"
 
 collections:
   - name: "pages"
-    label: "頁面"
-    folder: "src/pages"  # 根據你的需求設置頁面路徑
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+    label: "Pages"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "src/pages/index.js" # 指向你的 JS 文件
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
