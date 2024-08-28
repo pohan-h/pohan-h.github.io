@@ -21,7 +21,7 @@ const BackgroundPage = () => (
     <div class="comment">
         <small>from英文<a href="https://ig.camelgames.com/">Infinite Galaxy官網</a> 翻譯by ChatGPT</small>
     </div>
-    
+    <Link></Link>
 
   </Layout>
 )
